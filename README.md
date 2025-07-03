@@ -28,7 +28,7 @@ cd personal-task-tracker
 - LocalStorage API
 
 ## 🔗 Live Demo
-[https://your-live-demo-link.vercel.app](https://your-live-demo-link.vercel.app)
+[[https://your-live-demo-link.vercel.app](https://your-live-demo-link.vercel.app)](https://task-tracker-one-rosy.vercel.app/)
 
 ## 🖼 Screenshots
 
